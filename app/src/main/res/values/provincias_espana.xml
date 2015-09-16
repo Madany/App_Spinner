@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Each position of id refers to an string array -->
+<array name="array_provincia_a_localidades">
+<item>@array/localidades_sanmartin</item>
+<item>@array/localidades_juanjui</item>
+<item>@array/localidades_bellavista</item>
+</array>
+
+
+<string-array name="provincias">
+<item>San_Martin</item>
+<item>Juanjui</item>
+<item>Bellavista</item>
+</string-array>
+
+<string-array name="localidades_sanmartin">
+<item>Tarapoto</item>
+<item>Morales</item>
+<item>Banda Shilicayo</item>
+</string-array>
+<string-array name="localidades_juanjui">
+<item>Juanjui</item>
+<item>Huicungo</item>
+<item>Campanilla</item>
+</string-array>
+<string-array name="localidades_bellavista">
+<item>Bellavista</item>
+<item>Bellavista</item>
+<item>Bellavista</item>
+</string-array>
+
+    </resources>
